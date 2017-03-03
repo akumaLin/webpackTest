@@ -1,1 +1,10 @@
-body{background:red;height:1234px}.bod{background:#ff0;height:200px}
+body{
+    background-image:url(http://192.168.31.113:1278/assets/images/69f93129.22222.jpg);
+    height:1234px;
+
+
+}.bod{
+    background: yellow;
+    height:200px
+
+}

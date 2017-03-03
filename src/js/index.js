@@ -2,6 +2,8 @@
  * Created by lyx on 2017/2/22.
  */
 var $=require("jquery");
+/*var add=require("appAdd");
+add.add();*/
 /*var stuJson=require("./stu.json");*/
 require("../css/index.css");
 require("../css/tab.css");
