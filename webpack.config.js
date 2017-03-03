@@ -10,7 +10,7 @@ module.exports = {
     output: {
         path: __dirname + '/assets',
         filename: "js/index.js",
-           publicPath:"http://192.168.31.113:1278/assets"
+           publicPath:"https://akumalin.github.io/webpackTest"
     },
     module: {
         loaders: [
